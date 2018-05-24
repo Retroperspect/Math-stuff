@@ -1,0 +1,6 @@
+C:\Users\reape\Desktop\GIT\soft2017_1Semester\Projects\Discrete math\Assignment #3 - Set Theory\Assignment_3 - Set Theory\Assignment_3 - Set Theory\bin\Debug\Assignment_3 - Set Theory.exe.config
+C:\Users\reape\Desktop\GIT\soft2017_1Semester\Projects\Discrete math\Assignment #3 - Set Theory\Assignment_3 - Set Theory\Assignment_3 - Set Theory\obj\Debug\Assignment_3 - Set Theory.csprojResolveAssemblyReference.cache
+C:\Users\reape\Desktop\GIT\soft2017_1Semester\Projects\Discrete math\Assignment #3 - Set Theory\Assignment_3 - Set Theory\Assignment_3 - Set Theory\bin\Debug\Assignment_3 - Set Theory.exe
+C:\Users\reape\Desktop\GIT\soft2017_1Semester\Projects\Discrete math\Assignment #3 - Set Theory\Assignment_3 - Set Theory\Assignment_3 - Set Theory\bin\Debug\Assignment_3 - Set Theory.pdb
+C:\Users\reape\Desktop\GIT\soft2017_1Semester\Projects\Discrete math\Assignment #3 - Set Theory\Assignment_3 - Set Theory\Assignment_3 - Set Theory\obj\Debug\Assignment_3 - Set Theory.exe
+C:\Users\reape\Desktop\GIT\soft2017_1Semester\Projects\Discrete math\Assignment #3 - Set Theory\Assignment_3 - Set Theory\Assignment_3 - Set Theory\obj\Debug\Assignment_3 - Set Theory.pdb
